@@ -1,0 +1,16 @@
+---
+title: "First breakthrough on Rust"
+date: 2025-05-19 00:00:00 0800
+categories: [Rust]
+tags: [Rust]
+description: Start of my Rust Learning Journey.
+---
+
+Recently, I picked up a crash course on Rust through Udemy, and I have to say, it made understanding most of the concepts pretty straightforward. Concepts like ownership and borrowing were especially challenging for me when I tried to follow <a href="https://doc.rust-lang.org/book">The Rust Programming Language</a>. This course offered a simpler way to grasp these ideas, although figuring out how to apply them is another story.
+
+While the course made things clear, I noticed it didn’t offer an easy project to dive into. Take the <a href="https://github.com/dcrowTMH/rust_course_invader">Invader project</a>, for example. I found myself just mimicking his steps rather than genuinely understanding how to build the code myself. I might need to revisit this or maybe find another project to work on to really boost my Rust skills.
+
+Switching to Rust from Python is a whole different ball game. Using Python mostly for data science has meant I need to brush up on programming fundamentals since Rust is quite a shift from a high-level language. Learning something new is never easy, but that’s part of the adventure.
+
+Course Reference:
+<a href="https://www.udemy.com/course/ultimate-rust-crash-course/learn/lecture/18902064">Untimate Rust Crash Course - Udemy</a>
