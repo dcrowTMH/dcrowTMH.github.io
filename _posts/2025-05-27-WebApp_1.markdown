@@ -1,0 +1,15 @@
+---
+title: "Initiation on working a webapp"
+date: 2025-05-27 00:00:00 0800
+categories: [Python, Django, React]
+tags: [Python, Django, React]
+description: Trying a new way on webapp creation
+---
+
+I’ve been toying with the idea of creating a web app or mobile app for a while now. I learned Swift, but honestly, I don’t remember much from the Apple tutorials. It’s a whole different ball game from what I’m used to in Python or data science. This change is pretty big for me, so I need more time to get the hang of things.
+
+I know Flask is a solid choice for web apps, but I just stumbled upon a book titled “Building Versatile Mobile Apps with Python and REST: RESTful Web Services with Django and React” by Art Yudin. This might be an easier path since I can stick with Python and just add React with JavaScript. At least I won’t have to dive into a completely new language.
+
+Truth be told, I didn’t feel motivated after picking up Swift. So, focusing on Python and React seems like a smarter move for building a prototype.
+
+Right now, I’m on vacation in Europe, and it’s amazing to code while traveling. I tried getting some coding done on the flight, but the space was just too cramped. Maybe the extra room in premium economy or business class would help. Currently, I’m in the Netherlands. It’s chilly here, but the view while coding is fantastic. Can’t wait to do more coding in Switzerland!
