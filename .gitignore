@@ -25,3 +25,13 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Python
+.ipynb_checkpoints
+__pycache__
+*.ipynb
+*.xlsx
+.venv
+.DS_Store
+symbol_source
+.env
