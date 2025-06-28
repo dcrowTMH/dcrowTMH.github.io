@@ -8,7 +8,7 @@ description: Progress on the webapp creation after 1 month
 
 After going through four chapters, I’ve learned quite a bit about working with models and serializers in Django on the backend. I’ve been experimenting with handling GET, POST, PUT, and DELETE requests using RESTful methods. On the frontend, I’ve set up React with JavaScript to interact with the Django backend, utilizing Axios for fetching API data.
 
-It’s been a bit challenging since it’s my first time working with JavaScript, but I’m starting to grasp React components and their lifecycle, including mounting, updating, and unmounting. I’ve been testing GET requests to interact with model data through the frontend.
+It’s been a bit challenging since it’s my first time working with JavaScript, but I’m starting to grasp React components and their lifecycle, including mounting, updating, and unmounting. I’ve been trying different requests to interact with model data through the frontend for CRUD. I realize I still need to fine-tune my understanding before moving on to the next chapter, so I plan to revisit and tidy up my concepts on it.
 
 I hit a snag due to some errors, which turned out to be caused by variable naming issues. It seems like a simple mistake, but it’s a classic error. I realize I should configure my IDE to help catch these things in JavaScript, as I’m much more accustomed to Python.
 
