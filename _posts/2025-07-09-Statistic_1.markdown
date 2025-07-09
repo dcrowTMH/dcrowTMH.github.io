@@ -1,0 +1,15 @@
+---
+title: "Simulation code for statistical test"
+date: 2025-07-09 00:00:00 0800
+categories: [Python, Statistic]
+tags: [Python, Statistic]
+description: Initiation on understanding more regarding statistical through code
+---
+
+Statistics has always been a challenging topic to master. I studied quite a bit of statistics during university for laboratory data handling, and I’ve supplemented my knowledge through books and online courses. Yet, I still find it difficult to truly understand its practical applications.
+
+In my role as a data analyst, I now need to engage more with data modeling, which involves deeper statistical work. I see this as a great opportunity to dive deeper into statistics with real-world applications. I’ve started exploring more code and essays on the subject, and I’ve discovered that data simulation is an excellent way to better understand statistical tests. With AI assistance, I’ve begun generating code in a repository dedicated to hypothesis testing.
+
+Throughout this process, I’ve gained a clearer understanding of how statistical tests work. Since I’m working with simulated data, it’s easier to grasp the concepts by controlling the data distributions myself. This approach also provides a valuable resource—I can return to my repository to reuse code or refresh my understanding by reviewing my notebooks. Feel free to check out my repository at <a href="https://github.com/dcrowTMH/stat_test">stat_test</a> and leave any comments or suggestions!
+
+One of my friends cautioned against excessive use of these tests, which is a valid point. However, they’ve been tremendously helpful for deepening my understanding. Moving forward, I plan to be more methodical, asking myself important questions before diving into analysis: What’s the nature of my dataset? What’s the purpose of my work—prediction or finding relationships between variables? Understanding the fundamental characteristics of the data is crucial. I’m excited to see what insights this approach might yield!
