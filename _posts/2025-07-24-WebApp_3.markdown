@@ -1,0 +1,13 @@
+---
+title: "From being lazy and found something related"
+date: 2025-07-24 00:00:00 0800
+categories: [Python, Django, React]
+tags: [Python, Django, React]
+description: Got stuck & busy but got motivated by APP related part
+---
+
+I got stuck for a while in this section since I needed to figure out the interaction between the React server and Django server. On top of that, I was swamped with work and started volunteering for PyCon HK 2025. Plus, I’ll admit I got lazy—sometimes I just wanted to lay in bed or binge-watch The Office (it’s hilarious!). Being a volunteer has been great though; I’m learning about the latest techniques and how AI trends are developing. Anyway, back to the topic—I finally finished the React section at my own pace and I’m glad I picked up some React along the way.
+
+After React, the course moves into React Native and mobile app development. Honestly, I’m finding this part more engaging. Some of it builds on what I learned in the previous section, which helps. I also studied Swift a bit before, and some React Native components remind me of View Components in Swift. When I see the demo output running in the iPhone Simulator, things start clicking—I’m beginning to understand how data flows between the server, UI, and screen.
+
+I just started the section on different model interactions, and I’m getting pretty excited about it. Hopefully I can build some solid fundamental skills in this area. Lately, I’ve been brainstorming app ideas with a friend, and it’s really motivating to work with someone who shares the same passion. It’s challenging, but that collaboration keeps me energized. I’m hoping to finish the book soon so we can turn some of these ideas into reality!
