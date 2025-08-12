@@ -1,0 +1,13 @@
+---
+title: "Book Finished, Ideas Brewing"
+date: 2025-08-12 00:00:00 0800
+categories: [Python, Django, React]
+tags: [Python, Django, React]
+description: Got a rough concept for building an app and ready to start throwing around some ideas.
+---
+
+I’ve been reading this book for almost 3 months now. The last section mainly covered how to make POST calls to create new objects in the app and how to upload images. It also shows better ways to display the example objects, which were pizza store items. For the image part, it’s crucial to include permission requirements since we’re developing a mobile app. The only thing I need to revisit is the format for user data input—specifically, how to make sure the app can validate email patterns to ensure we’re getting correct email input.
+
+Another important part was authentication, which is a major highlight of Django. Working with the authentication model was my first step in learning how to secure app safety. It’s actually quite similar to creating objects like the pizza store items, but it involves authentication keys and I have to look into more regarding the interaction between app functions and users. The book also briefly mentioned how to deploy the app to a server using the Apache framework and Git for version control. I think Apache is another framework I need to spend time exploring. It’s surprising that app deployment isn’t that complicated—there’s actually a straightforward way to convert Django + React Native code into Apple/Android packages for app store uploads.
+
+Now it’s time to start brainstorming some great app ideas. My friend says he’s interested, but we definitely need more time to discuss things properly. I think we can experiment with different ideas—it’ll be a great experience regardless of whether we succeed or not. I’m also planning to look for another book to see if there are more advanced techniques I can learn.
